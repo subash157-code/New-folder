@@ -7,7 +7,7 @@ import Home from './Components/Home';
 import Explore from './Components/Explore';
 import MobileProduts from './Components/MobileProduts';
 import Watch from './Components/Watch';
-import EarBuds from './Components/EarBuds.Jsx';
+import EarBuds from './Components/EarBuds.jsx';
 import Laptop from './Components/Laptop';
 import Cart from './Components/Cart';
 import Contact from './Components/Contact';
