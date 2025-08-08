@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Xiaomi Notebook Pro 120",
+    "display": "14‑inch 2.5K 120 Hz",
+    "ram": "16 GB LPDDR5",
+    "storage": "512 GB PCIe Gen4 SSD",
+    "processor": "12th Gen Intel Core i5‑12450H",
+    "price": 63990,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTy2vOG--mDNRoDBHjkmfceG69HxBfOt4D3bpl92Olb1idvLQ5vXwBL_E9sNcMB0p5877uWOFFjKc6d197oLoRRr6YgS29CSwUX54UXYlQGbsh4QJ2pu3a_oA",
+    "ratings": 3.4
+  },
+  {
+    "id": 2,
+    "name": "Xiaomi Notebook Pro 120G",
+    "display": "14‑inch 2.5K 120 Hz",
+    "ram": "16 GB LPDDR5",
+    "storage": "512 GB PCIe Gen4 SSD",
+    "processor": "12th Gen Intel Core i5‑12450H + NVIDIA MX550",
+    "price": 74999,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmzV9QiCxSaq2xU5OW_UOw_nUtNdtqTgge2Ks4AyyU2tWBfCHSNz8X_-uwT7_EAEyZ94XqRycDOAMORZPKww5EXDa9-4qgKPTWWrAaeWi1jzBy4obJozG8hMM",
+    "ratings": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi Notebook Ultra Max",
+    "display": "≈14‑inch FHD",
+    "ram": "8 GB DDR4",
+    "storage": "512 GB SSD",
+    "processor": "11th Gen Intel Core i5‑11320H",
+    "price": 48000,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQrJ72isWuOcG5hBB9DFzgo999wI_sFQGWTpgZG05f4x-61oxNDAP1cZ_Db_AWKnON43Y_AKpdejD1BS-hVLW2c9xBtOryvKs5Ih5WDcAol6QOgRCAkjHuH7w",
+    "ratings": 3.9
+  },
+  {
+    "id": 4,
+    "name": "Mi Notebook 14",
+    "display": "14‑inch FHD",
+    "ram": "8 GB DDR4",
+    "storage": "512 GB SSD",
+    "processor": "10th Gen Intel Core i5‑10210U",
+    "price": 50390,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTg5KZ46dd9lnFEoNARUKsXaCYzFr2CZZthm8dR4XdDMjBoI1fUIfdi4AoNe7a8qkplQi2Td2TNHibaBobq_qdF83Q3AimZ_qmBgU10ylZWFR-dcenupxlujg",
+    "ratings": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Mi Notebook Horizon 14",
+    "display": "14‑inch FHD",
+    "ram": "8 GB DDR4",
+    "storage": "512 GB SSD",
+    "processor": "10th Gen Intel Core i5‑10210U + NVIDIA MX250",
+    "price": 54500,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcShM_FXtVB5eMR-vzzO_10cXcsckcAarduvfrBoi-HvkHnljCKUT0E6ySM3md9E5C8bmVIAcF7fNiKXAWCfjN9-mmpNqQbGPF82upcJm4cP1NWQ_dSdjpsm5Q",
+    "ratings": 4.3
+  },
+  {
+    "id": 6,
+    "name": "RedmiBook 15 Pro",
+    "display": "15.6‑inch FHD",
+    "ram": "8 GB DDR4",
+    "storage": "512 GB SSD",
+    "processor": "11th Gen Intel Core i5‑11300H",
+    "price": 49999,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTy2vOG--mDNRoDBHjkmfceG69HxBfOt4D3bpl92Olb1idvLQ5vXwBL_E9sNcMB0p5877uWOFFjKc6d197oLoRRr6YgS29CSwUX54UXYlQGbsh4QJ2pu3a_oA",
+    "ratings": 4.0
+  }
+]

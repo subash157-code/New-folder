@@ -1,0 +1,113 @@
+.exploreHeading{
+    width: 90%;
+    text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     border: 1px solid black;
+     margin: 4%;
+     border-radius: 5px;
+}
+.MobileCart{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 2%;
+    justify-content: center;
+    gap: 10px;
+}
+.cart-design{
+    padding: 0.5%;
+    border: 1px solid #c9c9c9;
+    text-align: center;
+    font-size: 12px;
+    background-color: white;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.373);
+    border-radius: 6px;
+}
+.itemImageMobile{
+     width: 100px;
+        height: 100px;
+        margin-left: 35%;
+        margin-top: 5%;
+}
+.seleItemMobile{
+ width: 100%;
+ margin: 1%;
+}
+.itemImageMobileLaptop{
+        width: 150px;
+        height: 120px;
+        margin-left: 27%;
+        margin-top: 7%;
+        border-radius: 10px;
+}
+
+.mobileCart{
+    margin: 1%;
+    padding: 2px 10px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.288);
+    border: 1px solid #0080ff97;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
+   
+}
+.mobileCart:hover{
+    border: 1px solid #000;
+    color: #000;
+}
+.shopIcon{
+ /* padding-left: 0.5%; */
+ text-align: center;
+}
+.headerImageLenova{
+    width: 86%;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 5%;
+    box-sizing: border-box;
+    gap: 20px;
+    justify-content: space-between;
+}
+.headerImageHp{
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+.headerImageSamsung{
+    width: 100%;
+    position: relative;
+}
+.SamsungImage{
+    width: 99%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    border-radius: 5px;
+}
+.ImageContent{
+    position: absolute;
+    top: 25%;
+    left: 6%;
+}
+.Sum{
+    width: 100%;
+    font-size: 3rem;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0.5%;
+    padding: 0;
+}
+.PerSam{
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 5%;
+}
+.BuyNowContent{
+    width: 18%;
+    border: 1px solid #ffffff;
+    padding: 1%;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}

@@ -1,0 +1,26 @@
+{
+  "company": {
+    "name": "ByteTop",
+    "description": "Your trusted source for top-brand laptops at unbeatable prices.",
+    "copyright": "© 2025 ByteTop. All rights reserved."
+  },
+  "links": {
+    "quickLinks": [
+      { "label": "About Us", "url": "/explore" },
+      { "label": "All Brands", "url": "/home" },
+      { "label": "Customer Support", "url": "/contact" },
+      { "label": "Contact", "url": "/contact" }
+    ],
+    "brands": ["HP", "Dell", "Lenovo", "Asus", "Apple"]
+  },
+  "contact": {
+    "email": "support@ByteTop.com",
+    "phone": "+1 (800) 123-4567",
+    "location": "123 vivegandhar street ,Coimbaore-28"
+  },
+  "social": {
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#"
+  }
+}

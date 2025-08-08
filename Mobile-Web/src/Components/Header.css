@@ -1,0 +1,107 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav-bar{
+    width: 100%;
+    height: 50px;
+    background-color: #1F2937;
+    position: relative;
+}
+
+.header-design{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: space-between;
+    width: 50%;
+    float: right;
+    padding-right: 2%;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    transition: 0.2s;
+    
+}
+.header-icon{
+    float: left;
+    margin-left: 1%;
+    padding: 0.5%;
+    margin-top: 0.5%;
+    width: 9%;
+    color: #fff;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px solid#fff;
+    border-radius: 5px;
+    animation: spin 2s ease-out infinite; 
+    animation-direction: alternate;
+}
+ @keyframes spin {
+    from {
+      transform: rotate(-7deg);
+    }
+    to {
+      transform: rotate(7deg);
+    }
+  }
+
+.header-icon:hover{
+    border: 3px solid#ff0000;
+    border-radius: 5px;
+}
+.l{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    transition: 0.3s;
+    font-weight: 100;
+     padding: 4px 10px;
+     border-radius: 10px;
+}
+.l:active{
+    color: black;
+}
+.l:hover{
+     color: rgb(255, 0, 0);
+     font-weight: 500;
+     border-bottom: 1px solid rgb(255, 0, 0);
+     /* box-shadow: 1px 1px 1px 0px rgb(255, 0, 0);; */
+}
+.linkOne{
+    width: 10%;
+}
+.CountDisplay{
+           color: red;
+           position: absolute;
+           top: 2%;
+           font-size: 11px;
+           font-weight: bold;
+           border: 1px solid #000;
+           width: 14px;
+           height: 14px;
+           text-align: center;
+           border-radius: 50%;
+           background-color: white;
+           /* padding: 0.%; */
+}
+.LogoutBtn{
+  border: 1px solid #ffffff;
+  position: absolute;
+  top: 23%;
+  right: 0.5%;
+  background-color: #1F2937;
+  color: white;
+  padding: 4px 10px;
+}
+  
+  
+
+
+
+

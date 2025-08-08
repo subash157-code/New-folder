@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "ThinkPad X1 Carbon Gen 13",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0sR_Pqy3OxaC60rJ7VA1CwXgU_D5FGXhJSuG7vwHNoitsKjov70LWkXejLxhpRnxK1zDfqBM_5CQMthrv3aEngv0zJOmUpkZ3J8kJlLx0wBTDuyIli2T9",
+    "display": "14-inch 2.8K OLED",
+    "ram": "32GB",
+    "price": 283000,
+    "storage": "2TB SSD",
+    "ratings": "4.8"
+  },
+  {
+    "id": "2",
+    "name": "ThinkPad X1 Yoga Gen 6",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjftMsDmPcfWMQ_E-Y3Uhz_7T0rN5wW6Zs0S69KraQA_zmb70Ok0wC6j_qiQYAz3yKcz7OtvHL4Zu09Ik7iQnTkxUL3ndGm15Q6c5TgkK14b3637TrE7v1",
+    "display": "14-inch FHD Touch",
+    "ram": "16GB",
+    "price": 107000,
+    "storage": "1TB SSD",
+    "ratings": "4.7"
+  },
+  {
+    "id": "3",
+    "name": "ThinkPad X1 Nano",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSP-SFZ_A15kCfmMIlGLN1SXgLDczHXXG53F5HhD6MbZi1QONVJXcilCJPX_lJwj0f92MYuX85_n-7D2PRkDSCw3I2n-dCxukIT32r4pDaY",
+    "display": "13-inch 2K",
+    "ram": "16GB",
+    "price": 216000,
+    "storage": "1TB SSD",
+    "ratings": "4.6"
+  },
+  {
+    "id": "4",
+    "name": "ThinkBook 15 G5",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQzqta5T4jgdjri8mCh8T37EeyYYfq_3kCNU0JOqiJmIURsrXwRyhFUHO16gIRzuKbPCJ-Ijvhb9o4Pvj0LNayXQHThL_DS",
+    "display": "15.6-inch FHD",
+    "ram": "8GB",
+    "price": 44000,
+    "storage": "512GB SSD",
+    "ratings": "4.5"
+  },
+  {
+    "id": "5",
+    "name": "IdeaPad Slim 7 Carbon",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZHQS1GuyrBt3ypQr26keHAzloRVa1m1mt6BsdUwCvFZcEestYeeZ8SogJB6vhAqnHVA-QOtOFUWht57TG8wotFIUaIpnux7LHjaZuHMdm",
+    "display": "14-inch OLED",
+    "ram": "16GB",
+    "price": 78990,
+    "storage": "512GB SSD",
+    "ratings": "4.4"
+  },
+  {
+    "id": "6",
+    "name": "IdeaPad Flex 5",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ--zwssA5yFqdZjIgnl921Z6LsR76ULwrNo96hHzYbGEQetqAKBLs7wUAqdxDUDdrxbDwD3ejeT3S4UhsiK-gr69DGMRk7_jkO0cmtCNQ",
+    "display": "14-inch Touch",
+    "ram": "8GB",
+    "price": 50990,
+    "storage": "512GB SSD",
+    "ratings": "4.5"
+  },
+  {
+    "id": "7",
+    "name": "Legion 5 Pro",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgabeDCbQ6BhFz8oh4o5siynFY0qbTdo5jRgZSwPlp-Ai8KsQMufWyuGc8WamjG3cyM2_knf0GCTRH4g72pjCv4rAv8p8Edw_N9NsiaA5_jQUogsylVgwCTg",
+    "display": "16-inch QHD",
+    "ram": "32GB",
+    "price": 150000,
+    "storage": "1TB SSD",
+    "ratings": "4.7"
+  },
+  {
+    "id": "8",
+    "name": "Legion 9",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAvAB7QXMqgCTlPFJydIsLOD_dt0MgZp_NT-oDX6aZatQQdJw4mxKTmGvwsoA-BNlG4PliiJGNONgYfLKJ-Qmbrdeqp5JAi9MgFXLJZCbrh16PSEuM2xay-w",
+    "display": "16-inch 3.2K Mini-LED",
+    "ram": "64GB",
+    "price": 462000,
+    "storage": "2TB SSD",
+    "ratings": "4.9"
+  },
+  {
+    "id": "9",
+    "name": "Legion Slim 7",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8EO83shSwlY7Yar99NdtF0DHwW2GlU-GV3P2QbHuRPX25ZgtQaonMSGYYOqDXAz5-hGiDKHYLq1Bp-ihPxgwL7MOUWoNyoA",
+    "display": "16-inch WQXGA 165Hz",
+    "ram": "32GB",
+    "price": 179000,
+    "storage": "1TB SSD",
+    "ratings": "4.6"
+  },
+  {
+    "id": "10",
+    "name": "LOQ 15IRX9",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBOFMLGCdNQyhl-gthNvOZ1-_mA7lyyk9zt4xpXaNrNIqjKtnIvnmzBZiqtUslqedyf5XmIA_1DfJqwFFsodc9Ck1rXd0yK3s8P0RWk_kAGr0P2617JZqWUw",
+    "display": "15.6-inch FHD 144Hz",
+    "ram": "16GB",
+    "price": 59999,
+    "storage": "512GB SSD",
+    "ratings": "4.6"
+  },
+  {
+    "id": "11",
+    "name": "IdeaPad Slim 3",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRSx6Gqs-wpWTHL8rdrkgj9iet42P8NQPWMpnDbcI2nLjZXlYy2u3FgYWEl7v0FKEp6F_HtE959xcQ_OMk7hQH9cAAb5ysLTJsvBWJ25GlBtMgB5aEmi2IK",
+    "display": "14-inch FHD",
+    "ram": "8GB",
+    "price": 39491,
+    "storage": "512GB SSD",
+    "ratings": "4.6"
+  },
+  {
+    "id": "12",
+    "name": "IdeaPad 1",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTJW5ArZqhGJx5GzRg32SOn_FJNKupIGVu7l-G_7rQnsmx-UheLDV0rW8lh7nsy26UMe2PDWwsvFVE5FWHRGooyc5Yy6MAIbOh8McsrXHTnqdzZQvAcY5nm",
+    "display": "14-inch HD",
+    "ram": "4GB",
+    "price": 24990,
+    "storage": "256GB SSD",
+    "ratings": "4.3"
+  },
+  {
+    "id": "13",
+    "name": "V15 Gen 4",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVWQc-4gkyM6wiYtd-_W6CAFSR0aVrpQhVBXDePBy-FujlR8UBDIMgkd9h7wAwvKDz6kwukZfBhT1rZ6aIDMV0uvbviVcXI7thVBLlQxLu0BjpDvszVYz2",
+    "display": "15.6-inch FHD",
+    "ram": "8GB",
+    "price": 27447,
+    "storage": "512GB SSD",
+    "ratings": "4.2"
+  },
+  {
+    "id": "14",
+    "name": "Legion 5 (GTX 1650)",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkd4JmMY2wMetGwM-spPGDKqTmY3CCJXj4_Vw_DsJE5K9Oox1m3OV_JF9RA40BTnUoYQcMkOpCxuxXy99wd16DGCPYssDnwEcCM8_YiBM",
+    "display": "15.6-inch 120Hz",
+    "ram": "16GB",
+    "price": 70000,
+    "storage": "512GB SSD",
+    "ratings": "4.5"
+  },
+  {
+    "id": "15",
+    "name": "Legion 7i Gen 8",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWnXRalSxakM2qI76YdqIjCEOQ3Mcbxl_fkIj6Lr07yOUtVr64QloYkXG2JFssX5aNKnj9Iw4ABb8PoeQwxWNWYUJqZE6d_6b9JgXb7j2nYmm4do0phSd8",
+    "display": "16-inch QHD+ 240Hz",
+    "ram": "32GB",
+    "price": 215000,
+    "storage": "1TB SSD",
+    "ratings": "4.8"
+  }
+]

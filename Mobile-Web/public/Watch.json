@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "MacBook Air 13‑inch M4 (2025)",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpECGHrwQLaKk6LORgNUx37-JEOKJnqtXXm-iph5UuclkkP0Bws50m_vRX4v6nZZc4TORHZdDpF20iWfkSChl1b8UKPQ4FiBnfJZKhO43WVIZ-81mh4gXhiGw",
+    "display": "13.6‑inch Liquid Retina",
+    "ram": "16GB",
+    "price": 93990,
+    "storage": "256GB SSD",
+    "ratings": "4.8"
+  },
+  {
+    "id": "2",
+    "name": "MacBook Air 15‑inch M4 (2025)",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ27J_1mlYJPuqq9K9_SY8bWg2E6fNMZ7GRdN1Kmn--Re-10BF26tVMeliOUjMzSk-jy8-6Vr6OMoM6Mxbkt2dfSyTCNezgUFkBgsBw8fzbKQyCXue1H7Tn",
+    "display": "15.3‑inch Liquid Retina",
+    "ram": "16GB",
+    "price": 117990,
+    "storage": "256GB SSD",
+    "ratings": "4.8"
+  },
+  {
+    "id": "3",
+    "name": "MacBook Air 13‑inch M3 (2024)",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_s68pglzi4hIhAamXHZPZ12AA5LqMD1MGZr0pjvUV1vjiBFjDYreZj-MUiuDbPzOL72AGrgpX8WmqS8EA3d12FEI56RawF7cE4BayUyJX1SRHNW5IqrfXhcY",
+    "display": "13.6‑inch Liquid Retina",
+    "ram": "8GB",
+    "price": 97990,
+    "storage": "256GB SSD",
+    "ratings": "4.7"
+  },
+  {
+    "id": "4",
+    "name": "MacBook Air 15‑inch M3 (2024)",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTF5lgmxR1a6b-qtP9f-eMPbK0YMBfnqqwDfqozhI06vF-Zc5YxdPlNOgvUIrpqAwoMA0Y_Die_937n8Am5WWKI5CCUOspHUUYCROtXSsbW",
+    "display": "15.3‑inch Liquid Retina",
+    "ram": "8GB",
+    "price": 139990,
+    "storage": "256GB SSD",
+    "ratings": "4.7"
+  },
+  {
+    "id": "5",
+    "name": "MacBook Pro 14‑inch M4 (2024)",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRpTpiwRTMDJ_9VL3OQ81UwaAlv2VLyKXhuu_ToYU7bziKfKHZhucK4k-gXerE1sQqcg4RnVu_SHx0oVjn-2JeH8bgyUq-FXmdv835XHp1_MxqW_GwwU7gBOw",
+    "display": "14.2‑inch Liquid Retina XDR",
+    "ram": "16GB",
+    "price": 162990,
+    "storage": "512GB SSD",
+    "ratings": "4.9"
+  },
+  {
+    "id": "6",
+    "name": "MacBook Pro 14‑inch M4 Pro (2024)",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThhv6u8OP8UVMVupfuD0YURp_zkWL0hRQvbfQJxRA5JmNxDR_zcSOYNB_fq0ax1AHLfipJHE8KV7loR-TAx_GA-XAf1-3JKgPMv7zKTCpC5Y5nc66-aYCAyA",
+    "display": "14.2‑inch Liquid Retina XDR",
+    "ram": "24GB",
+    "price": 191990,
+    "storage": "512GB SSD",
+    "ratings": "4.9"
+  },
+  {
+    "id": "7",
+    "name": "MacBook Pro 14‑inch M4 Max (2024)",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTSaY38Rwf9pkDVEewD7kXCd886nx-DlpC5ae3dn8Dv20Q8bhmHQ_yWeB_16gqBG3ChVDMWEeezVhgdTvc3qxsuReEm1dkN4M4vu3LL9hmYry9dxvlvKIkj",
+    "display": "14.2‑inch Liquid Retina XDR",
+    "ram": "36GB",
+    "price": 309990,
+    "storage": "1TB SSD",
+    "ratings": "4.9"
+  },
+  {
+    "id": "8",
+    "name": "MacBook Pro 16‑inch M4 Pro (2024)",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrNMFHs69OwrsIgRN3HAWHXNqhkW8jL34Mu9x5fL5e8y6B3AYs8Ru7cPdrO3w138ldYwig1QaoKKaqSbZHl6FSwWAFT5cpEQdLeiq5JhCHNTWaa4enOWRg",
+    "display": "16.2‑inch Liquid Retina XDR",
+    "ram": "24GB",
+    "price": 239990,
+    "storage": "512GB SSD",
+    "ratings": "4.9"
+  },
+  {
+    "id": "9",
+    "name": "MacBook Pro 16‑inch M4 Max (2024)",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqTWBq45TGKBWzE4hDzgO8f26FZZjsMR_BKx_U5XiBQYvuNCGSWc5q5N7ji61fE37bC3xoYrZukWLjk5WR_m9APUCw8JIgJY2_1Tz0LR0FlrexbvRqpNV_",
+    "display": "16.2‑inch Liquid Retina XDR",
+    "ram": "36GB",
+    "price": 334990,
+    "storage": "1TB SSD",
+    "ratings": "4.9"
+  },
+  {
+    "id": "10",
+    "name": "MacBook Pro 14‑inch M3 (2023)",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6DsVHAN_LfLxl8r1Df42c9MSlqmcICZ3EPiIfdVf8hAKBjiOyV8xkBSdRudVZoh5mZFvt5NN-0qFeVddLtoTlUjpRXSKu5eFtTiHPeursneqa0cG5g86zkCQ",
+    "display": "14.2‑inch Liquid Retina XDR",
+    "ram": "8GB",
+    "price": 169900,
+    "storage": "512GB SSD",
+    "ratings": "4.8"
+  },
+  {
+    "id": "11",
+    "name": "MacBook Pro 14‑inch M3 Pro (2023)",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRrkiaQ_40P4_f7kJqkSDkS4YmxuWltag_OkkheGjCE2bIqkdFopFcHh_30A83kjcL_2ifNhcKElcKy_IAP-1y2IYwDVmoQe2_WHKOmxRW-5S5Qm45s3IG2mQkj",
+    "display": "14.2‑inch Liquid Retina XDR",
+    "ram": "18GB",
+    "price": 199900,
+    "storage": "512GB SSD",
+    "ratings": "4.8"
+  },
+  {
+    "id": "12",
+    "name": "MacBook Pro 14‑inch M3 Max (2023)",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWcHmNKsUKdFWkO0uBHMOVTz-62w3hB9jsLh86hS40QKvsTikkTHAz0NbLb0niETK0sPRtas07PD6H5r905E1Wpro3UVw-kwjpvc5QJYxBkGoDSYHfIh3IpA",
+    "display": "14.2‑inch Liquid Retina XDR",
+    "ram": "36GB",
+    "price": 319900,
+    "storage": "1TB SSD",
+    "ratings": "4.9"
+  },
+  {
+    "id": "13",
+    "name": "MacBook Pro 16‑inch M3 Pro (2023)",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGEFb8KoAx8vARxj7xsbG9zoczTHZwZ5GeWpiJuU_xvcbaNZdPCwN4lW4rTDOb42oReqOpJTU1-4E0fqe0SjWm-Byrjq9A4qfJtwhOUzedL66ILqlDOa1Shg",
+    "display": "16.2‑inch Liquid Retina XDR",
+    "ram": "18GB",
+    "price": 249900,
+    "storage": "512GB SSD",
+    "ratings": "4.8"
+  },
+  {
+    "id": "14",
+    "name": "MacBook Pro 16‑inch M3 Max (2023)",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTEJu18r1UUGmwNKpFZn2LUOtWwH4kSmJGeeAWfkIwq7pitjaKe1gNqXEYgCDz9gj1RgP9IK5mugLT5R298G2UYbHVgr1yk-w",
+    "display": "16.2‑inch Liquid Retina XDR",
+    "ram": "36GB",
+    "price": 399900,
+    "storage": "1TB SSD",
+    "ratings": "4.9"
+  },
+  {
+    "id": "15",
+    "name": "MacBook Air 13‑inch M2 (2022)",
+    "image": "https://m.media-amazon.com/images/I/710TJuHTMhL._SX679_.jpg",
+    "display": "13.6‑inch Liquid Retina",
+    "ram": "8GB",
+    "price": 85990,
+    "storage": "256GB SSD",
+    "ratings": "4.6"
+  }
+]

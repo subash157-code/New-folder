@@ -1,0 +1,146 @@
+/* src/components/Contact.css */
+
+/* :root {
+  --primary: #c73a3a;
+  --background: white;
+  --white: #fff;
+  --radius: 12px;
+  --shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+} */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--background);
+}
+
+.contact-section {
+   text-align: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  /* border-bottom-left-radius: 20%; */
+  /* border-top-left-radius: 20%; */
+  background: linear-gradient(135deg, #e3f2fd, #bbdefb);
+  animation: bgFade 10s infinite alternate;
+}
+
+.contact-card {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 1000px;
+  width: 100%;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  animation: fadeUp 1s ease forwards;
+  float: left;
+}
+
+.contact-info {
+  flex: 1;
+  padding: 40px;
+}
+
+.contact-info h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.contact-info p {
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  transition: border-color 0.3s;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+.contact-form button {
+  padding: 14px;
+  border: none;
+  border-radius: 6px;
+  background-color: var(--primary);
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.contact-form button:hover {
+  background-color: #1565c0;
+}
+
+.contact-image {
+  flex: 1;
+  background-color: #e3f2fd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+.contact-image img {
+  max-width: 100%;
+  height: auto;
+  transform: scale(1);
+  transition: transform 0.4s ease;
+}
+
+.contact-image img:hover {
+  transform: scale(1.05);
+}
+
+/* Animation Effects */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bgFade {
+  0% {
+    background: linear-gradient(135deg, #e3f2fd, #072d4c);
+  }
+  100% {
+    background: linear-gradient(135deg, #c5cae9, #ffffff);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .contact-card {
+    flex-direction: column;
+  }
+
+  .contact-image {
+    padding: 20px;
+  }
+}
